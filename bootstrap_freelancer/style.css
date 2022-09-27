@@ -1,6 +1,9 @@
 img {
   width: 100%;
 }
+header {
+  background-color: rgb(25, 25, 63);
+}
 /* CONTAINER */
 .container-fluid {
   width: 100%;
@@ -10,7 +13,6 @@ img {
 /* NAVBAR */
 .nav {
   justify-content: space-between;
-  background-color: rgb(25, 25, 63);
   height: 100px;
   color: white;
   width: 100%;
