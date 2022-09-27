@@ -1,0 +1,41 @@
+img {
+  width: 100%;
+}
+/* CONTAINER */
+.container-fluid {
+  width: 100%;
+  display: flex;
+  margin: 0 auto;
+}
+/* NAVBAR */
+.nav {
+  justify-content: space-between;
+  background-color: rgb(25, 25, 63);
+  height: 100px;
+  color: white;
+  width: 100%;
+  align-items: center;
+}
+.fa-bars {
+  font-size: 30px;
+  color: gray;
+  border: 2px solid gainsboro;
+  border-radius: 4px;
+  padding: 4px;
+}
+/* /NAVBAR */
+/* FIRST-SECTION */
+.first-section {
+  background-color: rgb(0, 255, 174);
+  color: white;
+  text-align: center;
+  height: 500px;
+}
+.profession {
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+}
+.image-width {
+  width: 300px;
+}
