@@ -7,8 +7,8 @@ header {
 /* CONTAINER */
 .container-fluid {
   width: 100%;
-  display: flex;
-  margin: 0 auto;
+  /* display: flex; */
+  /* margin: 0 auto; */
 }
 /* NAVBAR */
 .nav {
@@ -64,6 +64,16 @@ header {
   padding: 1.5rem 0;
 }
 .ms_small-container {
-  width: 70%;
-  background-color: rgba(29, 149, 41, 0.933);
+  width: 80%;
+  /* background-color: rgba(2, 133, 90, 0.933); */
+  margin: 0 auto;
+  /* color: white; */
 }
+.btn {
+  border: 1px solid white;
+  border-radius: 2px;
+  color: white;
+}
+/* hr {
+  width: 50px;
+} */
